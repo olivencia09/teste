@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = felipe
+	email = olivencia09@gmail.com
+[remote "local"]
+	url = C:\\Users\\felipegarcia\\Documents\\servidor
+	fetch = +refs/heads/*:refs/remotes/local/*
